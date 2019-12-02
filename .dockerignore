@@ -1,0 +1,6 @@
+
+# Idea project files
+.idea/
+
+# Docker
+.dockerignore
